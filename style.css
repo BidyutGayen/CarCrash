@@ -21,7 +21,7 @@
 }
 
 body{
-    background-image: url("./css/i.jpg");
+    background-image: url("i.jpg");
     height:10vh;
     background-position: center;
     /*background-repeat: no-repeat;*/
@@ -35,7 +35,7 @@ body{
     background-color:rgb(255, 81, 0) ;
     position: absolute;
     bottom: 120px;
-    background-image: url("./css/d.png");     
+    background-image: url("d.png");     
 
 }
 
@@ -86,7 +86,7 @@ body{
     background-color:rgb(0, 255, 255) ;
     position: absolute;
     bottom: 120px;
-    background-image: url("./css/j.png");
+    background-image: url("j.png");
     
 }
 
